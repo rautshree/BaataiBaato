@@ -1,0 +1,631 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-13T09:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432195178",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mustang Thakali Kitchen",
+        "phone": "9841202776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3129059,
+          27.6782359
+        ]
+      },
+      "id": "node/432195178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432195183",
+        "amenity": "cafe",
+        "name": "Hermann Helmers Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.312612,
+          27.6783303
+        ]
+      },
+      "id": "node/432195183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669530474",
+        "amenity": "restaurant",
+        "name": "Chapter 9 Bar/Restaurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.312228,
+          27.6762484
+        ]
+      },
+      "id": "node/669530474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671207877",
+        "amenity": "cafe",
+        "name": "Cafe Columbus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3095229,
+          27.6770864
+        ]
+      },
+      "id": "node/671207877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671207878",
+        "amenity": "restaurant",
+        "name": "Lhakpa's Chulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3128583,
+          27.6755584
+        ]
+      },
+      "id": "node/671207878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/675712062",
+        "amenity": "cafe",
+        "name": "Manna Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3122813,
+          27.6783313
+        ]
+      },
+      "id": "node/675712062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/873531754",
+        "alt_name": "Chai Chai",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cafe 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3126299,
+          27.6760518
+        ]
+      },
+      "id": "node/873531754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1817306834",
+        "amenity": "restaurant",
+        "name": "Falcha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112855,
+          27.6763321
+        ]
+      },
+      "id": "node/1817306834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1892815644",
+        "alt_name": "Fusion",
+        "amenity": "restaurant",
+        "name": "Fusion Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3131869,
+          27.6761375
+        ]
+      },
+      "id": "node/1892815644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1892815653",
+        "amenity": "restaurant",
+        "name": "8 degrees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3129267,
+          27.6763101
+        ]
+      },
+      "id": "node/1892815653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1904043431",
+        "amenity": "restaurant",
+        "int_name": "F bar",
+        "name": "F bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3131402,
+          27.6762659
+        ]
+      },
+      "id": "node/1904043431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1937672800",
+        "amenity": "restaurant",
+        "name": "Backyard Foodjoint and Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3111848,
+          27.676489
+        ]
+      },
+      "id": "node/1937672800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1937672806",
+        "amenity": "restaurant",
+        "name": "Lorry's Restaurant and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3106831,
+          27.6766615
+        ]
+      },
+      "id": "node/1937672806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1937692244",
+        "amenity": "cafe",
+        "name": "Jars of Clay Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3087238,
+          27.6774038
+        ]
+      },
+      "id": "node/1937692244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1937710614",
+        "amenity": "restaurant",
+        "name": "Rosewood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3089262,
+          27.6773249
+        ]
+      },
+      "id": "node/1937710614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2520619641",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "name": "Cafe Soma",
+        "source": "local_knowledge",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3106544,
+          27.6784679
+        ]
+      },
+      "id": "node/2520619641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2521950150",
+        "alt_name": "Roadhouse",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Roadhouse Cafe",
+        "phone": "+97715521755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3130233,
+          27.6761042
+        ]
+      },
+      "id": "node/2521950150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2922941464",
+        "addr:street": "Jhamel Road",
+        "amenity": "restaurant",
+        "name": "Southern Comfort Restaurant & Bar",
+        "operator": "Brian Kramer",
+        "phone": "+97715525144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110406,
+          27.6765335
+        ]
+      },
+      "id": "node/2922941464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2922943980",
+        "addr:street": "Jhamel Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Aalishan Restaurant",
+        "note": "\"Authentic Mughli and Indian Cuisine\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3108896,
+          27.6765569
+        ]
+      },
+      "id": "node/2922943980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3599851625",
+        "addr:street": "Jhamshikhel",
+        "amenity": "cafe",
+        "cuisine": "nepalese;indian;breakfast;burger;chicken;fish_and_chips;kebab;noodles;pasta;pancake;sandwich;tea;vegetarian;hotdog;grill",
+        "email": "suncafektm@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sun Cafe & Bar",
+        "name:en": "Sun Cafe & Bar",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "operator": "Bhumi Management",
+        "phone": "015013574",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3102327,
+          27.6785309
+        ]
+      },
+      "id": "node/3599851625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170922389",
+        "addr:street": "Jhamel Road",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "info@karmacoffee.com.np",
+        "internet_access": "wlan",
+        "name": "kar.ma coffee",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+        "phone": "+9779843767232",
+        "website": "karmacoffee.com.np"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.311412,
+          27.6774904
+        ]
+      },
+      "id": "node/4170922389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4264058777",
+        "amenity": "restaurant",
+        "name": "Lhakpa's Chulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3128738,
+          27.6755657
+        ]
+      },
+      "id": "node/4264058777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4742688321",
+        "addr:street": "Dhobighat (next to KISC)",
+        "amenity": "cafe",
+        "email": "la.pana.ktm@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "La Pana - Argentine Cafeteria",
+        "name:uk": "La Pana - Argentine Cafeteria",
+        "opening_hours": "Mo-Su 07:00-18:30",
+        "operator": "Argentinian",
+        "phone": "+9779802008505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3086333,
+          27.6764587
+        ]
+      },
+      "id": "node/4742688321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754370529",
+        "amenity": "cafe",
+        "name:en": "Antar Dristi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3122509,
+          27.6783276
+        ]
+      },
+      "id": "node/4754370529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754408622",
+        "amenity": "cafe",
+        "name:en": "Amrite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3128841,
+          27.6781984
+        ]
+      },
+      "id": "node/4754408622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754408623",
+        "amenity": "cafe",
+        "name": "Busy Bean",
+        "name:en": "Busy Bean",
+        "phone": "015013611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3091608,
+          27.6772801
+        ]
+      },
+      "id": "node/4754408623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5234480621",
+        "addr:city": "Lalitpur",
+        "addr:street": "Jhamel Road",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Evoke Cafe & Bistro",
+        "name:en": "Evoke Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3107239,
+          27.6760993
+        ]
+      },
+      "id": "node/5234480621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331658619",
+        "amenity": "cafe",
+        "name": "Cafe Chheli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3120522,
+          27.6763813
+        ]
+      },
+      "id": "node/5331658619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5613227444",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Kairos Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3104475,
+          27.6751441
+        ]
+      },
+      "id": "node/5613227444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754400426",
+        "amenity": "restaurant",
+        "name:en": "Thakhola Thakali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3090383,
+          27.6769927
+        ]
+      },
+      "id": "node/4754400426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4773036625",
+        "amenity": "restaurant",
+        "name:en": "El Mediterraneo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3104906,
+          27.6784872
+        ]
+      },
+      "id": "node/4773036625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177374423",
+        "amenity": "restaurant",
+        "name:en": "Chicken Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3119744,
+          27.6763226
+        ]
+      },
+      "id": "node/5177374423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5259258723",
+        "addr:postcode": "+977",
+        "addr:street": "Jhamel Road",
+        "amenity": "restaurant",
+        "cuisine": "american;mexican;italian",
+        "email": "rushant19@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "booze belly",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3130819,
+          27.6756586
+        ]
+      },
+      "id": "node/5259258723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5303582623",
+        "addr:street": "Pulchowk Road",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "email": "kratupandey@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Achaar Ghar",
+        "opening_hours": "Mo-Su 11:30-21:45",
+        "phone": "+97715541952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112881,
+          27.6763224
+        ]
+      },
+      "id": "node/5303582623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5755072321",
+        "amenity": "restaurant",
+        "name": "Mustang Thakali Kitchen",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3129155,
+          27.6781834
+        ]
+      },
+      "id": "node/5755072321"
+    }
+  ]
+}
